@@ -24,15 +24,17 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+body.calculator {
+  width: 452px;
+  height: 500px;
+  background: #D4DDE2;
+  border-radius: 20px;
+  color: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+section.inputBar {
+  width: 382px;
+  height: 103px;
+  background: rgba(0, 0, 0, 0.58);
+  border-radius: 20px;
 }
